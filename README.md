@@ -1,5 +1,4 @@
-# predicting_earthquake_damage_in_nepal
-
+# Predicting Earthquake Damage in Nepal
 # Executive Summary 
 This document presents an analysis of the damage to buildings in Nepal due to a 7.8 magnitude earthquake that hit the region in April of 2015. The analysis was based on 10000 observations of buildings with various attributes. Key characteristics of the buildings were presented in the data and relevant feature set was created for training a model to predict the outcome of the severity of the damage caused based on key characteristics of the buildings. 
 
